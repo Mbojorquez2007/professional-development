@@ -29,7 +29,8 @@
 		<p>Playing forbbien island was a great way to learn about my teammates. At first everyone seemed to be shy and then through out the game eveyone one seemed to lighten up. No one was over bearing or controlling I honestly think we all worked as a team really well helping each other and giving each other advised when needed. </p>
 		<h2>Golden Circle</h2>
 		<img src="image/golden%20circle.jpg">
-	tes
+        <p>https://bootcamp-coders.cnm.edu/~mbojorquez4/pwp-project/public_html/index.php#</p>
+
 
 
 
